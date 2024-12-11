@@ -25,4 +25,5 @@ This is a multi-threaded ticketing system integrated with a CLI,frontend and bac
 - Node.js and npm
 - axios
 - MySQL
+- Maven
 - Git
