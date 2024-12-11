@@ -1,0 +1,48 @@
+Dec 06, 2024 9:47:05 AM com.example.backend.CLI.Main logConfiguration
+INFO: Total Tickets: 10
+Dec 06, 2024 9:47:05 AM com.example.backend.CLI.Main logConfiguration
+INFO: Ticket Release Rate: 1000
+Dec 06, 2024 9:47:05 AM com.example.backend.CLI.Main logConfiguration
+INFO: Customer Retrieval Rate: 1000
+Dec 06, 2024 9:47:05 AM com.example.backend.CLI.Main logConfiguration
+INFO: Max Ticket Capacity: 12
+Dec 06, 2024 9:47:05 AM com.example.backend.CLI.Vendor run
+INFO: Vendor added ticket: Ticket{ticketID=1, eventName='Event Simple', ticketPrice=1000.0}
+Dec 06, 2024 9:47:06 AM com.example.backend.CLI.Vendor run
+INFO: Vendor added ticket: Ticket{ticketID=2, eventName='Event Simple', ticketPrice=1000.0}
+Dec 06, 2024 9:47:07 AM com.example.backend.CLI.Customer run
+INFO: Customer bought ticket: Ticket{ticketID=1, eventName='Event Simple', ticketPrice=1000.0}
+Dec 06, 2024 9:47:08 AM com.example.backend.CLI.Customer run
+INFO: Customer bought ticket: Ticket{ticketID=2, eventName='Event Simple', ticketPrice=1000.0}
+Dec 06, 2024 9:47:09 AM com.example.backend.CLI.Vendor run
+INFO: Vendor added ticket: Ticket{ticketID=3, eventName='Event Simple', ticketPrice=1000.0}
+Dec 06, 2024 9:47:10 AM com.example.backend.CLI.Customer run
+INFO: Customer bought ticket: Ticket{ticketID=3, eventName='Event Simple', ticketPrice=1000.0}
+Dec 06, 2024 9:47:11 AM com.example.backend.CLI.Vendor run
+INFO: Vendor added ticket: Ticket{ticketID=4, eventName='Event Simple', ticketPrice=1000.0}
+Dec 06, 2024 9:47:12 AM com.example.backend.CLI.Vendor run
+INFO: Vendor added ticket: Ticket{ticketID=5, eventName='Event Simple', ticketPrice=1000.0}
+Dec 06, 2024 9:47:13 AM com.example.backend.CLI.Customer run
+INFO: Customer bought ticket: Ticket{ticketID=4, eventName='Event Simple', ticketPrice=1000.0}
+Dec 06, 2024 9:47:14 AM com.example.backend.CLI.Vendor run
+INFO: Vendor added ticket: Ticket{ticketID=6, eventName='Event Simple', ticketPrice=1000.0}
+Dec 06, 2024 9:47:15 AM com.example.backend.CLI.Customer run
+INFO: Customer bought ticket: Ticket{ticketID=5, eventName='Event Simple', ticketPrice=1000.0}
+Dec 06, 2024 9:47:16 AM com.example.backend.CLI.Vendor run
+INFO: Vendor added ticket: Ticket{ticketID=7, eventName='Event Simple', ticketPrice=1000.0}
+Dec 06, 2024 9:47:17 AM com.example.backend.CLI.Vendor run
+INFO: Vendor added ticket: Ticket{ticketID=8, eventName='Event Simple', ticketPrice=1000.0}
+Dec 06, 2024 9:47:18 AM com.example.backend.CLI.Vendor run
+INFO: Vendor added ticket: Ticket{ticketID=9, eventName='Event Simple', ticketPrice=1000.0}
+Dec 06, 2024 9:47:19 AM com.example.backend.CLI.Vendor run
+INFO: Vendor added ticket: Ticket{ticketID=10, eventName='Event Simple', ticketPrice=1000.0}
+Dec 06, 2024 9:47:20 AM com.example.backend.CLI.Customer run
+INFO: Customer bought ticket: Ticket{ticketID=6, eventName='Event Simple', ticketPrice=1000.0}
+Dec 06, 2024 9:47:21 AM com.example.backend.CLI.Customer run
+INFO: Customer bought ticket: Ticket{ticketID=7, eventName='Event Simple', ticketPrice=1000.0}
+Dec 06, 2024 9:47:22 AM com.example.backend.CLI.Customer run
+INFO: Customer bought ticket: Ticket{ticketID=8, eventName='Event Simple', ticketPrice=1000.0}
+Dec 06, 2024 9:47:23 AM com.example.backend.CLI.Customer run
+INFO: Customer bought ticket: Ticket{ticketID=9, eventName='Event Simple', ticketPrice=1000.0}
+Dec 06, 2024 9:47:24 AM com.example.backend.CLI.Customer run
+INFO: Customer bought ticket: Ticket{ticketID=10, eventName='Event Simple', ticketPrice=1000.0}

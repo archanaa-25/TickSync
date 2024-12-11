@@ -1,0 +1,88 @@
+Dec 11, 2024 3:36:59 PM Main logConfiguration
+INFO: Total Tickets: 10
+Dec 11, 2024 3:36:59 PM Main logConfiguration
+INFO: Ticket Release Rate: 2000
+Dec 11, 2024 3:36:59 PM Main logConfiguration
+INFO: Customer Retrieval Rate: 2800
+Dec 11, 2024 3:36:59 PM Main logConfiguration
+INFO: Max Ticket Capacity: 4
+Dec 11, 2024 3:36:59 PM TicketPool addTickets
+INFO: Total tickets released: 1 Total tickets sold: 0 | Current queue size: 1
+Dec 11, 2024 3:36:59 PM Vendor run
+INFO: Vendor 1 added a ticket.
+Dec 11, 2024 3:37:01 PM TicketPool addTickets
+INFO: Total tickets released: 2 Total tickets sold: 0 | Current queue size: 2
+Dec 11, 2024 3:37:01 PM Vendor run
+INFO: Vendor 1 added a ticket.
+Dec 11, 2024 3:37:03 PM TicketPool addTickets
+INFO: Total tickets released: 3 Total tickets sold: 0 | Current queue size: 3
+Dec 11, 2024 3:37:03 PM Vendor run
+INFO: Vendor 2 added a ticket.
+Dec 11, 2024 3:37:05 PM TicketPool addTickets
+INFO: Total tickets released: 4 Total tickets sold: 0 | Current queue size: 4
+Dec 11, 2024 3:37:05 PM Vendor run
+INFO: Vendor 2 added a ticket.
+Dec 11, 2024 3:37:07 PM TicketPool removeTickets
+INFO: Total tickets released: 4 Total tickets sold: 1 | Queue size: 3
+Dec 11, 2024 3:37:07 PM Customer run
+INFO: Customer 1 bought ticket: Ticket{ticketID=1, eventName='Musical Show', ticketPrice=1500.0}
+Dec 11, 2024 3:37:10 PM TicketPool removeTickets
+INFO: Total tickets released: 4 Total tickets sold: 2 | Queue size: 2
+Dec 11, 2024 3:37:10 PM Customer run
+INFO: Customer 1 bought ticket: Ticket{ticketID=2, eventName='Musical Show', ticketPrice=1500.0}
+Dec 11, 2024 3:37:13 PM TicketPool removeTickets
+INFO: Total tickets released: 4 Total tickets sold: 3 | Queue size: 1
+Dec 11, 2024 3:37:13 PM Customer run
+INFO: Customer 2 bought ticket: Ticket{ticketID=3, eventName='Musical Show', ticketPrice=1500.0}
+Dec 11, 2024 3:37:15 PM TicketPool removeTickets
+INFO: Total tickets released: 4 Total tickets sold: 4 | Queue size: 0
+Dec 11, 2024 3:37:15 PM Customer run
+INFO: Customer 2 bought ticket: Ticket{ticketID=4, eventName='Musical Show', ticketPrice=1500.0}
+Dec 11, 2024 3:37:18 PM TicketPool addTickets
+INFO: Total tickets released: 5 Total tickets sold: 4 | Current queue size: 1
+Dec 11, 2024 3:37:18 PM Vendor run
+INFO: Vendor 2 added a ticket.
+Dec 11, 2024 3:37:20 PM TicketPool addTickets
+INFO: Total tickets released: 6 Total tickets sold: 4 | Current queue size: 2
+Dec 11, 2024 3:37:20 PM Vendor run
+INFO: Vendor 1 added a ticket.
+Dec 11, 2024 3:37:22 PM TicketPool addTickets
+INFO: Total tickets released: 7 Total tickets sold: 4 | Current queue size: 3
+Dec 11, 2024 3:37:22 PM Vendor run
+INFO: Vendor 1 added a ticket.
+Dec 11, 2024 3:37:24 PM TicketPool addTickets
+INFO: Total tickets released: 8 Total tickets sold: 4 | Current queue size: 4
+Dec 11, 2024 3:37:24 PM Vendor run
+INFO: Vendor 2 added a ticket.
+Dec 11, 2024 3:37:26 PM TicketPool removeTickets
+INFO: Total tickets released: 8 Total tickets sold: 5 | Queue size: 3
+Dec 11, 2024 3:37:26 PM Customer run
+INFO: Customer 1 bought ticket: Ticket{ticketID=5, eventName='Musical Show', ticketPrice=1500.0}
+Dec 11, 2024 3:37:29 PM TicketPool removeTickets
+INFO: Total tickets released: 8 Total tickets sold: 6 | Queue size: 2
+Dec 11, 2024 3:37:29 PM Customer run
+INFO: Customer 2 bought ticket: Ticket{ticketID=6, eventName='Musical Show', ticketPrice=1500.0}
+Dec 11, 2024 3:37:32 PM TicketPool removeTickets
+INFO: Total tickets released: 8 Total tickets sold: 7 | Queue size: 1
+Dec 11, 2024 3:37:32 PM Customer run
+INFO: Customer 2 bought ticket: Ticket{ticketID=7, eventName='Musical Show', ticketPrice=1500.0}
+Dec 11, 2024 3:37:35 PM TicketPool removeTickets
+INFO: Total tickets released: 8 Total tickets sold: 8 | Queue size: 0
+Dec 11, 2024 3:37:35 PM Customer run
+INFO: Customer 2 bought ticket: Ticket{ticketID=8, eventName='Musical Show', ticketPrice=1500.0}
+Dec 11, 2024 3:37:38 PM TicketPool addTickets
+INFO: Total tickets released: 9 Total tickets sold: 8 | Current queue size: 1
+Dec 11, 2024 3:37:38 PM Vendor run
+INFO: Vendor 2 added a ticket.
+Dec 11, 2024 3:37:40 PM TicketPool addTickets
+INFO: Total tickets released: 10 Total tickets sold: 8 | Current queue size: 2
+Dec 11, 2024 3:37:40 PM Vendor run
+INFO: Vendor 1 added a ticket.
+Dec 11, 2024 3:37:42 PM TicketPool removeTickets
+INFO: Total tickets released: 10 Total tickets sold: 9 | Queue size: 1
+Dec 11, 2024 3:37:42 PM Customer run
+INFO: Customer 1 bought ticket: Ticket{ticketID=9, eventName='Musical Show', ticketPrice=1500.0}
+Dec 11, 2024 3:37:44 PM TicketPool removeTickets
+INFO: Total tickets released: 10 Total tickets sold: 10 | Queue size: 0
+Dec 11, 2024 3:37:44 PM Customer run
+INFO: Customer 2 bought ticket: Ticket{ticketID=10, eventName='Musical Show', ticketPrice=1500.0}
