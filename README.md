@@ -1,5 +1,4 @@
 # TickSync
-Ticketing system using Java, SpringBoot & ReactJs
 
 ## Description
 This is a multi-threaded ticketing system integrated with a CLI, front end, and back end that gets the configuration inputs from the user and simulates ticket releasing(by vendor) and ticket retrieving (by customer) according to the input provided. The system uses concurrent programming and thread safety mechanisms to work efficiently without interruptions.
